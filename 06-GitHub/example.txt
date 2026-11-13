@@ -1,0 +1,15 @@
+GitHub Practical Example
+
+Step 1: Create a GitHub account.
+
+Step 2: Create a new repository.
+
+Step 3: Initialize Git in the local project folder.
+
+Step 4: Add and commit project files.
+
+Step 5: Connect the local repository to GitHub.
+
+Step 6: Push the files to GitHub.
+
+Step 7: Open the repository online and verify the uploaded files.

@@ -1,0 +1,8 @@
+PROJECT_NAME = "Technical Writing - Doxygen"
+OUTPUT_DIRECTORY = "output"
+INPUT = "examples"
+RECURSIVE = YES
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+EXTRACT_ALL = YES
+QUIET = YES
